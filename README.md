@@ -10,6 +10,6 @@ Every hub version has Hardware MIDI outputs. Only NRF24-based version has USB-MI
 Hub interface  hardware needed - rotary encoder (4 pulses per step), I2C screen (128*96), 5DIN ports, 3.5 mm female jacks. 
 Other hardware include opamps (for CV voltages), optocouplers, diodes (for MIDI), resistors, linear potentiometers 
 
-Wearable uses ADXL335
+Wearable uses ADXL335 analog axxelerometer
 
 Deduce wiring from the code provided. Hit me to produce a diagram, if struggling. If produced yourself - please share
